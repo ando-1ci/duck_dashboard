@@ -48,6 +48,8 @@ Control tips:
 
 - To see a value on a certain week, hover over an intersection of the chart line and the week gridline.
 - To zoom in on a section of the chart, select it with the pointer. To reset the zoom, double-click anywhere on the chart.
+- To exclude a line from the chart, click the line marker in the chart legend.
+- To return a line to the chart, click the marker again.
 
 ## Migration path<a id="migration-path"></a>
 
