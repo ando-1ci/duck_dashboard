@@ -40,7 +40,7 @@ Control tips:
 
 ## Duck retention<a id="duck-retention"></a>
 
-This line chart shows the percentage of ducks that stay in the specified area during period. The zero week value is considered 100%. The confidence interval is the range that contains the true values with a certain probability.
+This line chart shows the percentage of ducks that stay in the specified area during a period. The zero week value is considered 100%. The confidence interval is the range that contains the true values with a certain probability.
 
 ![Bar chart](./media1/line_chart.png)
 
